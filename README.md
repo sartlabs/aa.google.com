@@ -1,3 +1,3 @@
-# console.developer.google.com
+# origin-history.paypal.com
 
 ##Subdomain Takeover by CyberInsane- Demo Purpose!
